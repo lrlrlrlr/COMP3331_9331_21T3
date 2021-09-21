@@ -7,8 +7,8 @@ For T18A and W17A students
  - Tuesday 18:00 (T18A) lab link: https://unsw.zoom.us/j/82232078296 
  - Wednesday 17:00 (W17A) lab link: https://unsw.zoom.us/j/85837612940
 
-## Lab1：
-Lab 1 submission deadline: 10:00 Tue 28 Sept
-General problem:
-  -- todo
+## Lab1：  
+ Lab 1 submission deadline: 10:00 Tue 28 Sept  
+ General problem:  
+   -- todo
 -----------------------------
