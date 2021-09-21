@@ -9,6 +9,6 @@ For T18A and W17A students
 
 ## Lab1：  
  - Lab 1 submission deadline: 10:00 Tue 28 Sept  
- - General problem:  
-   -- todo
+ - Recording: https://youtu.be/MLiYH3dYjKs 
+ - Slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/COMP3331_w2%E2%80%94%E2%80%94demo.pdf 
 -----------------------------
