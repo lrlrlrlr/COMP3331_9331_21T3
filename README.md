@@ -4,6 +4,7 @@ For T18A and W17A students
 ## Useful links:
  - [Course home page](https://webcms3.cse.unsw.edu.au/COMP3331/21T3/)
  - [Lab timetable and recordings](https://webcms3.cse.unsw.edu.au/COMP3331/21T3/resources/65958)
+ - Forumn: https://edstem.org/au/courses/7054/discussion/ 
  - Tuesday 18:00 (T18A) lab link: https://unsw.zoom.us/j/82232078296 
  - Wednesday 17:00 (W17A) lab link: https://unsw.zoom.us/j/85837612940
 
