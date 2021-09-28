@@ -13,3 +13,11 @@ For T18A and W17A students
  - Recording: https://youtu.be/MLiYH3dYjKs 
  - Slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/COMP3331_w2%E2%80%94%E2%80%94demo.pdf 
 -----------------------------
+
+
+## Lab2
+ - Recording: 
+  - q3 https://youtu.be/eBnyq6_IQqE  
+  - q4 https://youtu.be/Yg5IwiD2Ync   
+  - q5 https://youtu.be/9ARKigLwJfM  
+--------------------------------
