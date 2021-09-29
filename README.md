@@ -16,8 +16,10 @@ For T18A and W17A students
 
 
 ## Lab2
- - Recording: 
+ - Lab recording: https://youtu.be/A-fddDFtZL0
+ - Recording clip(Short video): 
   - q3 https://youtu.be/eBnyq6_IQqE  
   - q4 https://youtu.be/Yg5IwiD2Ync   
   - q5 https://youtu.be/9ARKigLwJfM  
+
 --------------------------------
