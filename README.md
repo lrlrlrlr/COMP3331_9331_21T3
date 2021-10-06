@@ -23,3 +23,12 @@ For T18A and W17A students
    - q5 https://youtu.be/9ARKigLwJfM  
 
 --------------------------------
+
+## Lab3
+ - Lab recording: https://coming_soon
+ - Recording clip(Short video): 
+   - q3 https://coming_soon  
+   - q4 https://coming_soon
+
+
+--------------------------------
