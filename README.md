@@ -25,10 +25,9 @@ For T18A and W17A students
 --------------------------------
 
 ## Lab3
- - Lab recording: https://coming_soon
- - Recording clip(Short video): 
-   - q3 https://coming_soon  
-   - q4 https://coming_soon
+ -  Lab recording: https://unsw.zoom.us/rec/share/dHzy7PBQipEmKzXRYq-_Rew7059SwLrP6oD5geD8o-Vpj5sbs0Qvy2a_SoqxWoUd.uSIrVeyY_UMTtjSh
+ -  Passcode: M@5kQWVa 
+
 
 
 --------------------------------
