@@ -31,3 +31,5 @@ For T18A and W17A students
 
 
 --------------------------------
+## Tut01 / Midterm
+ -  [Useful info](https://github.com/lrlrlrlr/COMP3331_9331_21T3/tree/main/9331review)
