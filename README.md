@@ -32,5 +32,6 @@ For T18A and W17A students
 
 --------------------------------
 ## Tut01 / Midterm
- -  [Useful info](https://github.com/lrlrlrlr/COMP3331_9331_21T3/tree/main/9331review)
- -  w1~w5 review recording: https://youtu.be/1wc6fVItUuE   
+ -  [Midterm Useful info](https://github.com/lrlrlrlr/COMP3331_9331_21T3/tree/main/9331review)
+ -  w1~w5 review recording: https://youtu.be/1wc6fVItUuE 
+ -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_midterm_rev.pdf   
