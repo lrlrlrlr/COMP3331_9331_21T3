@@ -8,6 +8,29 @@ For T18A and W17A students
  - Tuesday 18:00 (T18A) lab link: https://unsw.zoom.us/j/82232078296 
  - Wednesday 17:00 (W17A) lab link: https://unsw.zoom.us/j/85837612940
 
+--------------------------------
+## Tut02 / Finalexam
+ -  Recording: https://youtu.be/BoPMGeGf4LE 
+ -  w1~w5 review recording: https://youtu.be/1wc6fVItUuE 
+ -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_midterm_rev.pdf   
+
+
+-----------------------------
+## Assignment demo structure
+ -  based on the demo code
+ -  server will have a main thread to handle incomming connection from client
+ -  Once a client connected to the server, server will create a subthread/subprocess to handle the TCP connection.
+ -  The Client will also have 3 different thread/process:
+    -   main process - **sending** message: this process will handle all the user input, and send it to the server/another client.
+    -   subprocess 1 - **receiving** message: this process will handle all the incoming messages (basically print them)
+    -   subprocess 2 - **listening**: this process is for P2P connection, it is highly similar to the main thread of server.py. Once a client is connected to it, it will create a subthread/subprocess to handle the TCP connection.
+
+ ![image](https://user-images.githubusercontent.com/27357380/142300671-b2ffa789-c33d-4755-b01d-3c781bcc42a9.png)
+
+--------------------------------
+
+
+
 ## Lab1：  
  - Lab 1 submission deadline: 10:00 Tue 28 Sept  
  - Recording: https://youtu.be/MLiYH3dYjKs 
@@ -35,3 +58,21 @@ For T18A and W17A students
  -  [Midterm Useful info](https://github.com/lrlrlrlr/COMP3331_9331_21T3/tree/main/9331review)
  -  w1~w5 review recording: https://youtu.be/1wc6fVItUuE 
  -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_midterm_rev.pdf   
+
+--------------------------------
+
+## Lab4
+ -  Lab recording: https://youtu.be/uCRe-hEd_WI 
+ 
+
+--------------------------------
+
+## Lab5
+ -  Lab recording: https://youtu.be/b3lHD9xLBlM 
+ 
+
+--------------------------------
+
+## Lab6
+ -  Lab recording: https://youtu.be/Yrr3pI7H9NY 
+ 
