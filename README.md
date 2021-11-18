@@ -11,8 +11,7 @@ For T18A and W17A students
 --------------------------------
 ## Tut02 / Finalexam
  -  Recording: https://youtu.be/BoPMGeGf4LE 
- -  w1~w5 review recording: https://youtu.be/1wc6fVItUuE 
- -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_midterm_rev.pdf   
+ -  review slides: https://github.com/lrlrlrlr/COMP3331_9331_21T3/blob/main/9331review/slides_final_rev.pdf   
 
 
 -----------------------------
