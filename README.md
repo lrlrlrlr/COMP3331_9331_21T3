@@ -23,7 +23,10 @@ For T18A and W17A students
     -   main process - **sending** message: this process will handle all the user input, and send it to the server/another client.
     -   subprocess 1 - **receiving** message: this process will handle all the incoming messages (basically print them)
     -   subprocess 2 - **listening**: this process is for P2P connection, it is highly similar to the main thread of server.py. Once a client is connected to it, it will create a subthread/subprocess to handle the TCP connection.
-
+ -  More detail about P2P - **How** doessubprocess 2 - listening work?
+      -   it will find an available port and listen to it.
+      -   it will upload the IPAddress/port to the server: to allow other clients to get its address and connect to it.
+      -   it will start to listen (in a while loop), once another client is connected to it, it will create a subthread/subprocess to handle the TCP connection.
  ![image](https://user-images.githubusercontent.com/27357380/142300671-b2ffa789-c33d-4755-b01d-3c781bcc42a9.png)
 
 --------------------------------
